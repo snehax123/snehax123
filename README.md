@@ -7,9 +7,9 @@
 [<img align="left" alt="SnehaSingla | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="SnehaSingla | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[gmail]: https://mail.google.com/mail/u/0/?fs=1&to=snehasingla2006@gmail.com&su=SUBJECT&tf=cm
 [instagram]: https://www.instagram.com/sneha_x07/
 [linkedin]: https://www.linkedin.com/in/sneha-singla-981244219/
+[gmail]: https://mail.google.com/mail/u/0/?fs=1&to=snehasingla2006@gmail.com&su=SUBJECT&tf=cm
 
 <!--
 **
