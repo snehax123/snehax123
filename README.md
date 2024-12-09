@@ -3,10 +3,11 @@
 <h2>👨‍💻 Coding Projects:</h2>
 
 <h2> 🤳 Connect with me:</h2>
-
+[<img align="left" alt="SnehaSingla | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 [<img align="left" alt="SnehaSingla | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="SnehaSingla | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+[gmail]: https://mail.google.com/mail/u/0/?fs=1&to=snehasingla2006@gmail.com&su=SUBJECT&tf=cm
 [instagram]: https://www.instagram.com/sneha_x07/
 [linkedin]: https://www.linkedin.com/in/sneha-singla-981244219/
 
@@ -19,7 +20,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 
 - ⚡ Fun fact: ...
 -->
