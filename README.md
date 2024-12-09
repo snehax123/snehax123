@@ -9,7 +9,7 @@
 
 [instagram]: https://www.instagram.com/sneha_x07/
 [linkedin]: https://www.linkedin.com/in/sneha-singla-981244219/
-[gmail]: https://mail.google.com/mail/u/0/?fs=1&to=snehasingla2006@gmail.com&su=SUBJECT&tf=cm
+[gmail]: https://mail.google.com/mail/u/0/?fs=1&to=snehasingla2006@gmail.com&su=SUBJECT&tf=cm/
 
 <!--
 **
